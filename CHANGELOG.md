@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-rabbitvcs/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-rabbitvcs/compare/0.1.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#2](https://github.com/buluma/ansible-role-rabbitvcs/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.1.0](https://github.com/buluma/ansible-role-rabbitvcs/tree/0.1.0) (2022-04-23)
 
 [Full Changelog](https://github.com/buluma/ansible-role-rabbitvcs/compare/5d8c5e1fb5c76f38329780fda0ae3ea616b0c4ce...0.1.0)
