@@ -1,4 +1,4 @@
-# [rabbitvcs](#rabbitvcs)
+# [Ansible role rabbitvcs](#rabbitvcs)
 
 Install and configure rabbitvcs on your system.
 
