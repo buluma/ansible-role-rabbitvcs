@@ -1,10 +1,10 @@
-# [Ansible role rabbitvcs](#rabbitvcs)
+# Ansible role [rabbitvcs](https://galaxy.ansible.com/ui/standalone/roles/buluma/rabbitvcs/documentation)
 
 Install and configure rabbitvcs on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-rabbitvcs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-rabbitvcs/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-rabbitvcs.svg)](https://github.com/buluma/ansible-role-rabbitvcs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-rabbitvcs.svg)](https://github.com/buluma/ansible-role-rabbitvcs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-rabbitvcs.svg)](https://github.com/buluma/ansible-role-rabbitvcs/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-rabbitvcs/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-rabbitvcs/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-rabbitvcs.svg)](https://github.com/buluma/ansible-role-rabbitvcs/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-rabbitvcs.svg)](https://github.com/buluma/ansible-role-rabbitvcs/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-rabbitvcs.svg)](https://github.com/buluma/ansible-role-rabbitvcs/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/rabbitvcs)](https://galaxy.ansible.com/ui/standalone/roles/buluma/rabbitvcs/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -81,13 +81,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-rabbitvcs/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-rabbitvcs/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[Michael Buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
