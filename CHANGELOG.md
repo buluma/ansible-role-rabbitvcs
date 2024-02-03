@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-rabbitvcs/tree/HEAD)
+## [0.2.0](https://github.com/buluma/ansible-role-rabbitvcs/tree/0.2.0) (2024-01-28)
 
-[Full Changelog](https://github.com/buluma/ansible-role-rabbitvcs/compare/0.1.1...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-rabbitvcs/compare/0.1.1...0.2.0)
 
 **Closed issues:**
 
