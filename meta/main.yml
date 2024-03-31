@@ -14,7 +14,9 @@ galaxy_info:
         - all
     - name: Ubuntu
       versions:
-        - all
+        - focal
+        - bionic
+        - jammy
 
   galaxy_tags:
     - rabbitvcs
