@@ -9,6 +9,10 @@
 - Update action [\#9](https://github.com/buluma/ansible-role-rabbitvcs/issues/9)
 - rebuild action [\#8](https://github.com/buluma/ansible-role-rabbitvcs/issues/8)
 
+**Merged pull requests:**
+
+- Bump docker/setup-buildx-action from 3 to 4 [\#18](https://github.com/buluma/ansible-role-rabbitvcs/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-rabbitvcs/tree/24.3.31) (2024-03-31)
 
 [Full Changelog](https://github.com/buluma/ansible-role-rabbitvcs/compare/0.2.0...24.3.31)
