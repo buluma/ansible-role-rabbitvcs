@@ -6,7 +6,6 @@ _rabbitvcs_packages:
     - rabbitvcs
   Debian:
     - rabbitvcs-nautilus
-    - rabbitvcs-nautilus
     - rabbitvcs-gedit
     - rabbitvcs-cli
 
