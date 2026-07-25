@@ -2,19 +2,12 @@
 # Pins the CI platform/version matrix for this role. Without this, ansible-generator
 # falls back to default_platforms and silently discards these choices on regenerate.
 platforms:
-  - name: EL
-    versions:
-      - "10"
-      - "9"
+  # No EL/Fedora: RabbitVCS was never packaged for RHEL-family distros -
+  # it's a GNOME/Nautilus desktop plugin, Debian/Ubuntu only.
   - name: Debian
     versions:
-      - all
-  - name: Fedora
-    versions:
-      # Excludes 45: it ships Python 3.15.0b3, whose dataclasses module
-      # dropped _is_type, breaking ansible-core's AnsiballZ module wrapper.
-      - "44"
-      - "43"
+      - "13"
+      - "12"
   - name: Ubuntu
     versions:
       - all
