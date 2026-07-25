@@ -7,7 +7,6 @@ platforms:
   - name: Debian
     versions:
       - "13"
-      - "12"
   - name: Ubuntu
     versions:
       - all
